@@ -1,6 +1,6 @@
 ---
-title: "Blue Space: Live Granular Engine"
-subtitle: "Performance oriented granulator built in MaxMSP"
+title: "Blue Space"
+subtitle: "Performance oriented grain engine built in MaxMSP"
 thumbnail: "https://raw.githubusercontent.com/haelyons/Website-Content/master/BLUE%20SPACE.png"
 ---
 
@@ -13,6 +13,7 @@ audio input – whether live or sampled based – without artefacts
 in the recording or playback, while outputting the granulated input,
 a granulated version of the previous content (until the buffer loops),
 or clean input (which can be simultaneous) each controlled by faders.
+
 
 Granulation parameters include noise-based panning, grain duration,
 transposition, random repositioning, envelope modification/randomisation
