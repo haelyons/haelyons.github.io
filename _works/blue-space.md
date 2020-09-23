@@ -1,10 +1,10 @@
 ---
 title: "Blue Space: Live Granular Engine"
 subtitle: "Performance oriented granulator built in MaxMSP"
-thumbnail: "https://imgur.com/a/BQBbGJk"
+thumbnail: "https://raw.githubusercontent.com/haelyons/Website-Content/master/BLUE%20SPACE.png"
 ---
 
-![](https://imgur.com/a/BQBbGJk)
+![](https://raw.githubusercontent.com/haelyons/Website-Content/master/BLUE%20SPACE.png)
 
 _**Blue Space (2020)**_
 
