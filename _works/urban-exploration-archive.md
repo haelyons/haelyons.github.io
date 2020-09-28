@@ -25,7 +25,8 @@ thumbnail: "https://github.com/haelyons/Website-Content/blob/master/urbex/DSC021
 _**Urban Exploration Archive (2018 - 2020)**_
 
 Sprawling warehouse estates separated by abandoned apartment blocks,
-boarded windows and rusted fences, adjacent to a neon condominium.
-Research and location choice by Helios, pictures and post-processing done by Alberto Scotti. The quote above (subtitle) is the motto of the
+boarded windows and rusted fences, adjacent to  new construction sites.
+Research and location choice by Helios, photography and post-processing by
+Alberto Scotti. The quote above (subtitle) is the motto of the
 Baltimore Grotto, an American caving society, which reflects the ethos
 of urban exploration.
