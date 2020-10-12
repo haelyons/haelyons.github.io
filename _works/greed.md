@@ -11,4 +11,4 @@ _**Greed (2020)**_ https://www.youtube.com/watch?v=ZzMYuDWCeZY
 
 A piece, composed and produced by Helios Lyons with vocals and ideation
 from Tom Dean, along with visuals filmed and edited by Alberto Scotti.
-Single cover and supporting art was made by James Usill. Details on production process and concept in upcoming blogpost.
+Single cover and supporting art was made by James Usill.
