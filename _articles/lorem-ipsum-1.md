@@ -1,9 +1,9 @@
 ---
 id: 1
-title: "Lorem ipsum 1"
-subtitle: "Sed sit amet arcu a diam tincidunt porta"
-date: "2019.12.08"
-tags: "tag1, tag2"
+title: "Generative Music I"
+subtitle: "Synthesizer construction and lots of `random~`"
+date: "2020.07.01"
+tags: "generative, max"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet arcu a diam tincidunt porta. Fusce ut elit euismod massa convallis volutpat vitae et magna.
