@@ -1,7 +1,7 @@
 ---
 id: 1
-title: "Generative Music I"
-subtitle: "Synthesizer construction and lots of `random~`"
+title: "Entropy Cleric"
+subtitle: "Building an algorithmic note system in MaxMSP"
 date: "2020.07.01"
 tags: "generative, max"
 ---
