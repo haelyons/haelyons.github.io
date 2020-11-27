@@ -1,7 +1,7 @@
 ---
 id: 1
-title: "Entropy Cleric"
-subtitle: "Building an algorithmic note system in MaxMSP"
+title: "Music Generation I"
+subtitle: "Entropy Cleric: Building an algorithmic note system in MaxMSP"
 date: "2020.07.01"
 tags: "generative, max"
 ---
@@ -23,7 +23,7 @@ While tempo is a control parameter for this generation, there is a separate time
 
 This creates regular, small variations in tempo which I found quite satisfying, though variation of note length (4th inlet) could have provided even more variation in the generation's temporal qualities.
 
-Beyond this the above picture is quite clear – `tempo` object sends out `bangs` which trigger the notes. Velocity is simply generated using a 0-128 randomiser triggered every time a note value is sent out.
+Beyond this the above picture is quite clear – `tempo` object sends out a `bang` which trigger the notes. Velocity is simply generated using a 0-128 randomiser triggered every time a note value is sent out.
 
 ### Note Selection
 Note decision making is based around taking the currently sustained notes – those selected on the top right MIDI keyboard – and randomly assigning them an output (Over, OSC1, OSC2) and an octave / interval. The grey box over `zl scramble` shows the currently held notes, and randomises the order every time a note is sent. This note bang is also what triggers the output and octave selection systems. The options for octave selection can be seen on the bottom right (+12, +24, +36, -12).
