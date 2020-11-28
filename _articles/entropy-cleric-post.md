@@ -17,7 +17,7 @@ The interface for the Entropy Cleric is shown below, each part labelled. More de
 ## Spicey™ Note Generator
 The algorithm itself is remarkably simple, requiring:
 – A toggle to enable generation
-– A toggle to enable the pre-selected chords to change every minute
+– A toggle to enable the pre-selected chords that change every minute
 – A tempo value (default 300 BPM) and selected notes on the MIDI keyboard (top right).
 
 The processes that guide the generation process can be divided into 4 sections: tempo, velocity, note selection and selected keys. The use of multiple oscillators is what allows polyphony within this algorithm.
@@ -45,7 +45,6 @@ I find the generated output of this synthesizer fascinating, both because it is 
 The cover art for this work was mutated from the picture 'Holz Geist Gesicht' by Usien. It shows a tree with a cut cross-section resembling a human face.[^3] Using 'pixeldrifter' software – a series of algorithms that manipulate individual pixels based on their luminescence – this face was transformed into the work below; another dig at humans, algorithms, and their intersections.[^4]
 
 ![Spicey™](https://raw.githubusercontent.com/haelyons/Website-Content/master/entropy%20cleric/pareidolia.jpg)
-
 
 [^1]: https://docs.cycling74.com/max8/refpages/tempo?q=tempo
 [^2]: https://intermorphic.com/sseyo/koan/generativemusic1/
