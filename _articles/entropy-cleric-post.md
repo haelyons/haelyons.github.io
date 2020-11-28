@@ -1,7 +1,7 @@
 ---
 id: 1
 title: "Music Generation I"
-subtitle: "Building an algorithmic note system in MaxMSP"
+subtitle: "Custom synthesizer and algorithmic note system in MaxMSP"
 date: "2020.07.01"
 tags: "generative, max"
 ---
