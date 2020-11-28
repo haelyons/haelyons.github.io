@@ -1,7 +1,7 @@
 ---
 id: 1
 title: "Music Generation I"
-subtitle: "Entropy Cleric: Building an algorithmic note system in MaxMSP"
+subtitle: "Building an algorithmic note system in MaxMSP"
 date: "2020.07.01"
 tags: "generative, max"
 ---
