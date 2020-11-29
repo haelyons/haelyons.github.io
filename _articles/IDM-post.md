@@ -1,8 +1,8 @@
 ---
-id: 1
+id: 2
 title: "I.D.M 1"
 subtitle: "Max for Live mapping solution for KinectV2 and NI Mate"
-date: "2020.07.01"
+date: "2020.11.02"
 tags: "m4l, dance, sonification"
 ---
 ### Objectives
