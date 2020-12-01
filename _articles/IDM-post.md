@@ -1,12 +1,10 @@
 ---
 id: 2
-title: "I.D.M 1"
+title: "Interactive Dance Music I"
 subtitle: "Max for Live mapping solution for KinectV2 and NI Mate"
 date: "2020.11.02"
 tags: "m4l, dance, sonification"
 ---
-_Interactive Dance Music_
-
 ### Objectives
 Building on last year’s Max device, Blue Space, I would like to continue exploring technical solutions for electronic music performance. Blue Space provided an easy way to generate a granular backing track / effect for instrumentalists, with a simple set of grain controls. In this new project I would like to use a dancer’s movements to generate music, extending the ‘ease of use’ theme from Blue Space. I find the relationship between music and dancer fascinating because it makes the dancer into an instrument without necessarily introducing to them to the mechanics of how the music is produced. This means the dance will be an exploration of how the body effects sound, and that the dancer may have to rethink their movements; disrupting established patterns from the previously one-way relationship between music and dance.
 
