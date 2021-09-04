@@ -6,7 +6,7 @@ thumbnail: "https://raw.githubusercontent.com/haelyons/Website-Content/master/Sc
 
 ![](https://raw.githubusercontent.com/haelyons/Website-Content/master/Screenshot%202021-09-02%20at%2015.21.07.png)
 
-_**Almost Human (2020-2021)**_ // add a link
+_**Almost Human (2021)**_ // add a link
 
 Almost Human is an interactive short film written, directed and filmed by Alberto Scotti,
 a long time collaborator from the University of Leeds. I was approached to record, edit
