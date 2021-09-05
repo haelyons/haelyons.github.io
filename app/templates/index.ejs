@@ -37,27 +37,6 @@
 
   <main id="main-container">
     <p>There is no theory. You only have to listen. Fantasy is the law. <i> – Claude Debussy </i></p> <br  />
-    <section id="articles-container">
-      <ul>
-        <% articles.reverse().map((article) => { %>
-          <li class="articles-list-item">
-            <a href="./article/<%= article.id %>.html">
-              <h2><%= article.title %></h2>
-              <% if (article.subtitle) { %>
-                <h3><%= article.subtitle %></h3>
-              <% } %>
-              <time><%= article.date %></time>
-              <ul class="articles-tags">
-                <% article.tags.map((tag) => { %>
-                  <li>#<%= tag.trim() %></li>
-                <% }) %>
-              </ul>
-            </a>
-          </li>
-        <% }) %>
-      </ul>
-      <h2><a href="./articles.html">↘ ↘ ↘</a></h2>
-    </section>
   </main>
 
   <script defer src="../src/ts/init.ts"></script>
