@@ -7,7 +7,7 @@ tags: "Max, hardware, synthesizer, Eurorack"
 ---
 ### Objectives
 This post will discuss a solution adopted during group construction of a Eurorack standard modular synthesizer, which allowed for limited simulation and testing of modules despite members being in isolation.
-Personally, I built a Triple VCA (Voltage Controlled Amplifier) – used for multiplying signals to create interaction between control signals from various modules – and a Digital Control Voltage Sequencer, designed to program melodies using voltages sent over a timestep determined by Daniel Burgoyne’s Clock Generator.
+Personally, I built a Triple VCA (Voltage Controlled Amplifier) – used for multiplying signals to create interaction between parameters from various modules – and a Digital Control Voltage Sequencer, designed to program melodies using voltages sent over a timestep determined by the Clock Generator.
 
 ### Problem & Background
 Several strategies were initially discussed to deal with the constraints placed on practical laboratory work and access to necessary materials. Among them, the implementation of DIY oscilloscopes and signal generators was considered a possible route to self-sufficient prototyping and audio performance tests, as all members had left over ELEC2856 MBeds (LPC1768) which could be converted into functional scopes.[^1] Contacting manufacturers for more detailed models of components was also mentioned. I contacted THAT Corporation and received a series of extremely detailed models and application circuits for the initial design of the VCA. Unfortunately, it was not possible to acquire the physical component, due to lead times being heavily impacted by COVID, resulting in the final design instead using more common amplifier ICs – JFET, OTA. The schematic below shows the standard THAT2180 IC application circuit, implemented with a highly detailed SPICE model directly sourced from the manufacturer.
@@ -30,5 +30,5 @@ While this solution mitigated some of the COVID-based limitations on project wor
 for true networked testing of hardware modules. Rather it prompted a distanced jam-session and made me question if the interactivity between modules that Eurorack and modular synthesizers use to great effect could be applied over the internet.
 A possible example could be the direct interaction of a live, virtual audience with a modular synthesizer, which would likely increase engagement and crete a democratised music production environment.
 
-[^1]: http://www.ijera.com/papers/Vol5_issue3/Part - 1/T50301106109.pdf
+[^1]: http://www.ijera.com/papers/Vol5_issue3/Part-1/T50301106109.pdf
 [^2]: https://docs.cycling74.com/max7/refpages/serial
