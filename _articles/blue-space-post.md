@@ -1,7 +1,7 @@
 ---
 id: 0
 title: "Blue Space"
-subtitle: "Building a real-time granulator in MaxMSP"
+subtitle: "Building a real-time granular engine in MaxMSP"
 date: "2020.6.08"
 tags: "granular, max"
 ---
