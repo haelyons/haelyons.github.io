@@ -1,7 +1,7 @@
 ---
 id: 2
 title: "Interactive Dance Music I"
-subtitle: "Max for Live mapping solution for KinectV2 and NI Mate"
+subtitle: "Personalised motion-sound mappings using motion sensing and Max for Live"
 date: "2020.11.02"
 tags: "m4l, dance, sonification"
 ---

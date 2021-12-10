@@ -1,7 +1,7 @@
 ---
 id: 3
 title: "Interactive Dance Music II"
-subtitle: "Correlation of motion and sound parameters for live sound generation using interactive machine learning"
+subtitle: "Embodied exploration of personalised motion-sound relationships using motion sensing and interactive ML"
 date: "2021.7.05"
 tags: "max, granular, machine learning, MuBu"
 ---

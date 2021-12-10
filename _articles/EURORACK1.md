@@ -1,7 +1,7 @@
 ---
 id: 4
 title: "Thoughts on Networked Modular Synthesis "
-subtitle: "Routing OSC control voltages over the internet via MaxMSP"
+subtitle: "Routing control voltages over the internet via MaxMSP"
 date: "2021.10.08"
 tags: "Max, hardware, synthesizer, Eurorack"
 ---
