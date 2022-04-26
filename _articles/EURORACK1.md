@@ -3,7 +3,7 @@ id: 4
 title: "Thoughts on Networked Modular Synthesis "
 subtitle: "Routing control voltages over the internet via MaxMSP"
 date: "2021.10.08"
-tags: "Max, hardware, synthesizer, Eurorack"
+tags: "max, hardware, synthesizer, Eurorack"
 ---
 ### Objectives
 This post will discuss a solution adopted during group construction of a Eurorack standard modular synthesizer, which allowed for limited simulation and testing of modules despite members being in isolation.
